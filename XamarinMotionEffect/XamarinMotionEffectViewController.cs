@@ -22,6 +22,7 @@ namespace XamarinMotionEffect
 			// Release any cached data, images, etc that aren't in use.
 		}
 
+		// This value represents the amplitude of the parallax effect.
 		private const int MotionEffectScale = 30;
 
 		#endregion
