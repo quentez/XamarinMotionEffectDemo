@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinMotionEffect", "XamarinMotionEffect\XamarinMotionEffect.csproj", "{5929C2D9-9B4B-438A-A247-E5D111DB21A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5929C2D9-9B4B-438A-A247-E5D111DB21A2}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{5929C2D9-9B4B-438A-A247-E5D111DB21A2}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{5929C2D9-9B4B-438A-A247-E5D111DB21A2}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{5929C2D9-9B4B-438A-A247-E5D111DB21A2}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{5929C2D9-9B4B-438A-A247-E5D111DB21A2}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{5929C2D9-9B4B-438A-A247-E5D111DB21A2}.Debug|iPhone.Build.0 = Debug|iPhone
+		{5929C2D9-9B4B-438A-A247-E5D111DB21A2}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{5929C2D9-9B4B-438A-A247-E5D111DB21A2}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{5929C2D9-9B4B-438A-A247-E5D111DB21A2}.Release|iPhone.ActiveCfg = Release|iPhone
+		{5929C2D9-9B4B-438A-A247-E5D111DB21A2}.Release|iPhone.Build.0 = Release|iPhone
+		{5929C2D9-9B4B-438A-A247-E5D111DB21A2}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{5929C2D9-9B4B-438A-A247-E5D111DB21A2}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = XamarinMotionEffect\XamarinMotionEffect.csproj
+	EndGlobalSection
+EndGlobal
